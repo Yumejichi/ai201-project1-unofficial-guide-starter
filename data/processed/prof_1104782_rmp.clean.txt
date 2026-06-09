@@ -1,17 +1,9 @@
 Logo
 Professors
-Caret Down
 Professor name
-University of Southern California
-Pencil Icon
 Marco Papa
-Computer Science
 Rate
 Compare
-Jump To Ratings Down Arrow
-Overall Quality Based on 451 ratings
-Professor in the Computer Science department at University of Southern California
-Level of Difficulty
 Arrow Icon
 I'm Professor Papa
 Rating Distribution
@@ -115,7 +107,6 @@ Fabricated reviews.
 Dec 3rd, 2025
 Textbook: Yes
 The professor cares about you a lot. Class was very interesting as well
-Caring
 Accessible outside class
 Nov 11th, 2025
 Over the years, he has nerfed the Web Technologies class. It used to be good when the projects had more weightage towards the grade. Now he gives more weightage to the exams which don't you that much in the real world.
@@ -127,7 +118,6 @@ I love vibe coding and using the LLMs to complete my assignments. I scored perfe
 Online Savvy
 Oct 29th, 2025
 Prof.Papa is controversial. Love him or hate him. Lectures are amazing, and helped me decide to switch to AI early on. His lectures are still widely attended even at mid semester. Unusual. The exams are tough since there is no samples to use, besides some online at coursehero.
-Amazing lectures
 Oct 22nd, 2025
 Don't trust the scores on RMP. Must say it's a very odd distribution of ratings where there are almost the same number of 1's as 5's and 2's as 4's. Some might say someone has their thumb on the scale. All in all just plain avoid. Cheating on assignments is rampant and no way to prep for the exams aside from asking previous students.
 Sep 21st, 2025
@@ -151,14 +141,12 @@ Jun 20th, 2025
 Lot to say but rather not say. LOL
 May 25th, 2025
 Papa admits to reading this page,I suspect most of the good reviews are by him. Be warned: you pay 9,000 to do a project by yourself . You might as well Google old projects and do them in your free time or just find similar stuff around web, no difference. He's always finding excuses to punish people and thinks he's Steve Jobs.
-Hilarious
 May 22nd, 2025
 Lot to say but rather not say
 Participation matters
 May 21st, 2025
 This course is very valuable for people who want to build a foundation of server-web knowledge or create their own web service from scratch. This course has variant practice (quizzes, labs, coding assignments, coding project) with different focus scope. Workload is medium considering it's a coding course. Professor responses very quickly in Piazza.
 I took CSCI 571 in my first semester at USC. The course greatly strengthened my understanding of technologies like MEAN stack, Flask, and Android app development. The assignments were well-structured and on industry level. Professor Papa explained the material clearly and was always helpful, which made the learning experience even more valuable.
-Inspirational
 The class has a heavy workload but it's manageable if you're interested in the topics. Lectures are informative but attendance isn't required. Overall, I liked the way the class was structured, has good Piazza support, the grading criteria was clear, and I enjoyed taking it with professor Papa.
 May 20th, 2025
 I really don't get why everyone hates on Papa. I don't think he's a great lecturer, so I never went, but the labs have value. You really learn a lot from his projects and he provides a lot of resources to get you started. Group project sucks but everyone does well. Piazza is pure memes. Exams are easy if you just look up a quizlet.
@@ -180,7 +168,6 @@ May 15th, 2025
 it was a great learning experience.
 May 14th, 2025
 Professor Papa has strong expertise in web technologies domain . He's active on Piazza and always ready to help with questions and debugging even at the middle of the night. The assignments are practical, challenging, and resume-worthy. I learned a lot and highly recommend this course for anyone interested in web development.
-Respected
 May 13th, 2025
 Nice Course Material. Worst Professor
 AVOID THIS COURSE. Lectures are unhelpful, assignments are very heavy, and questions often go unanswered or asked in return with rudeness. HW Instructions, rubrics, and samples often conflict. Grading is inconsistent with given rubrics and unfair (lost 10 points when a part sums up to 4 points in rubrics), with no chance for regrade in clear cases.

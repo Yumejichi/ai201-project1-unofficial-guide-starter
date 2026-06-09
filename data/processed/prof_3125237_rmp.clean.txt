@@ -1,18 +1,10 @@
 Logo
 Professors
-Caret Down
 Professor name
-University of Southern California
-Pencil Icon
 Ruishan Liu
-Computer Science
 Rate
 Compare
-Jump To Ratings Down Arrow
-Overall Quality Based on 2 ratings
-Professor in the Computer Science department at University of Southern California
 100%
-Level of Difficulty
 Arrow Icon
 I'm Professor Liu
 Rating Distribution
@@ -34,7 +26,6 @@ For Credit: Yes
 Would Take Again: Yes
 I rarely write ratemyprofessors but Ruishan is an absolute gem.
 Gives good feedback
-Caring
 Accessible outside class
 Helpful
 Thumbs up
@@ -46,7 +37,6 @@ Textbook: Yes
 Good class and nice professor. Content is pretty well explained. It has bonus quizzes and grading is very generous
 EXTRA CREDIT
 Clear grading criteria
-Inspirational
 Tech News & Deals from PCWorld & Macworld
 Windows Insider meetups are back. I went to one and so should you
 Computex got weird: A sword PC, a scented case, and a hologram cooler

@@ -1,16 +1,9 @@
 Logo
 Professors
-Caret Down
 Professor name
-University of Southern California
-Pencil Icon
 Scott Easley
-Computer Science
 Rate
 Compare
-Overall Quality Based on 31 ratings
-Professor in the Computer Science department at University of Southern California
-Level of Difficulty
 Arrow Icon
 I'm Professor Easley
 Rating Distribution
@@ -42,8 +35,6 @@ Attendance: Not Mandatory
 Grade: A+
 I've taken three semesters with Scott, he's easily my favorite professor at USC. He genuinely cares about his students and wants them to get the most from his class, and he's stupid funny. If you're interested in animation/tech/games... etc you're missing out if you don't take a class from him.
 Participation matters
-Amazing lectures
-Hilarious
 Jan 9th, 2024
 Grade: A
 My experience taking this class was amazing! The is like a semester-long game jam where you dig deep into the steps of game development. It was a great way to learn how to iteratively design, approach minor elements of design that make a large impact to the player, learn technical skills (which really depends on how difficult you want to make it)
@@ -52,7 +43,6 @@ Graded by few things
 Dec 19th, 2023
 genuinely such an amazing professor, really wants to help you learn and improve. he encourages students to reach out and ask questions, and almost all work was done in-class (little to no hw). super kind when giving feedback on models and very understanding of the life of college students. also brought pastries every week to lecture :)
 Gives good feedback
-Respected
 Dec 16th, 2023
 Professor Easley is verey nice. TAs are very helpful. In this class you will team up with 4~5 people to make a WebGL based game with Unity. Recommended for anyone who wants to make a game.
 EXTRA CREDIT
@@ -61,10 +51,8 @@ This course needs students to make a group game project, but with some initial a
 Nov 27th, 2023
 Grade: A-
 Never would I have thought I would be able to do so much in 3d modeling! Professor Scott gave free cwossants and our project-based lectures were very helpful. He always bring positive energy to the class and makes great dad jokes. Really hope to take his classes again soon!
-Caring
 Apr 27th, 2023
 The class has nothing to do with mobile games or game consoles. You create your own game in Unity. There were maybe one or two lectures on Unity/C#--the rest you figure out by yourself. Class was pretty unstructured the first half of the semester, but that changed after student feedback. That said, the class is a fairly easy A and I learned a lot.
-Inspirational
 Lots of homework
 Apr 26th, 2023
 You pretty much have to teach yourself everything you need to complete your group's game prototype, so without prior experience, this is going to be very difficult and take a lot of time. That being said, if you DO have prior experience, this class is a great opportunity to develop a small game while honing your skills.

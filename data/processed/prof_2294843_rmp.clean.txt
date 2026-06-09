@@ -1,17 +1,10 @@
 Logo
 Professors
-Caret Down
 Professor name
-University of Southern California
-Pencil Icon
 Mohammad Rajati
 Engineering
 Rate
 Compare
-Jump To Ratings Down Arrow
-Overall Quality Based on 118 ratings
-Professor in the Engineering department at University of Southern California
-Level of Difficulty
 Arrow Icon
 I'm Professor Rajati
 Rating Distribution
@@ -46,7 +39,6 @@ Attendance: Not Mandatory
 Would Take Again: Yes
 Grade: A-
 Professor Rajati is a great teacher who explains difficult concepts clearly and simply. His exams are fair, and the past exams he provides are very helpful for practice. He also adds extra lectures or recordings when needed, which shows he truly cares about helping students learn well.
-Amazing lectures
 Feb 8th, 2026
 Textbook: N/A
 The worst. He did a "flipped classroom" thing where 1 section was the actual lecture and the other was dedicated to problem-solving. However, the flipped class worksheets are also graded, so you essentially have 8 hrs of lecture a week instead of 4, PLUS multiple pages of extra math. It's like 2 classes in 1, I don't even know how this is allowed.
@@ -56,14 +48,12 @@ Lecture heavy
 CSCI360
 Jan 13th, 2026
 He seems very funny and intelligent, but the class itself was very draining. there's pre-recoded lectures but u still need to go to lecture for in-class activities. 6 problem sets, 2 exams, 4 labs, 1 final project (similar to a lab). There are late days, but i recommend saving them for the end. u can also drop 1 problem set and 1 lab.
-Hilarious
 Dec 19th, 2025
 Will definitely learn things when you do homework and tests. Loose on grading, you will never worry about a bad grade in this course when you spend time on homework and tests. But, the professors emphasize so much on being serious on homework, but we get almost no feedback on homework. Anyway, you will learn mostly from yourself....
 Dec 15th, 2025
 Extremely bad at teaching
 Nov 11th, 2025
 He is an amazing professor. Probably the best one at Viterbi. He is hilarious and teaches insanely well. I wish the exams were offline as I feel after switching to take home exams, it doesn't motivate students to study.
-Inspirational
 Nov 10th, 2025
 The professor regularly comes late to class, and the midterms were very poorly managed. Communication from the TAs and the professor was very limited and unclear.
 Nov 2nd, 2025
@@ -121,8 +111,6 @@ This semester attendance for class was mandatory instead of labs. However, we ha
 Very nice professor. Lectures are clear. HWs are just long, not difficult. They can be done in 1-3 days, and you get to drop the lowest. Final was easier than midterm. Very generous grading. It depends on your standing in the entire class. 40% of the class got A, 27% got A-. Also he talks about some career tips if you need.
 May 8th, 2024
 Grades are not a problem in this course, a majority of students get an A. The material is interesting if you enjoy machine learning and statistics, plus the professor is clearly passionate about it. Take this course when you need a chill/interesting course for your schedule.
-Caring
-Respected
 Apr 25th, 2024
 This class is not too hard, even if you don't have prior programming experience. It's largely independent learning though, so be prepared for that. Overall, the class works as a good guide to learning C++ and Professor Rajati is a nice guy.
 Rajati is a wonderful person and his course is very interesting, but it's so easy not skate along without learning anything and not pay the price until the end. Try to stick with his lectures and do problem sets on your own!

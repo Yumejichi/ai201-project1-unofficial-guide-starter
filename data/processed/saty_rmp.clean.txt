@@ -1,17 +1,9 @@
 Logo
 Professors
-Caret Down
 Professor name
-University of Southern California
-Pencil Icon
 Saty Raghavachary
-Computer Science
 Rate
 Compare
-Jump To Ratings Down Arrow
-Overall Quality Based on 244 ratings
-Professor in the Computer Science department at University of Southern California
-Level of Difficulty
 Arrow Icon
 I'm Professor Raghavachary
 Rating Distribution
@@ -63,7 +55,6 @@ Dec 3rd, 2025
 Waste of tuition. Instead of Databases, we spent the semester on high-level AI news. Homework was just AI prompting. Lectures are useless and I learned nothing. It's an easy pass without studying, but shocking that USC allows such a low-quality course. Skip this professor.
 Dec 2nd, 2025
 Textbook: Yes
-Bad bad bad humor, good luck sitting through his sarcastic jokes while we are all desperate because he wouldn't confirm on what's on the exam. To find the syllabus, you need to scroll through countless bs before you even find anything course related on brightspace. Dont get me wrong, he is a genuinely a good person, just horrible as a professor.
 cs572
 Nov 13th, 2025
 You can learn about search engines in this course, but the exam is too obscure and confusing to answer correctly, even with thorough preparation. Homework isn't posted in Brightspace, only on the course site. Miss one and there's no grace period. Assignments are disorganized and often contain errors. Don't take CSCI 572.
@@ -73,24 +64,19 @@ Test heavy
 Nov 10th, 2025
 Would Take Again: Yes
 Professor is making this course be a well rounded and amazing intro. We are learning IR but also, 'AIR' as he likes to call it. Classes are long but go by quickly. Take this course for sure, it is IR++. Thank you, Professor Saty, for helping your students in many ways.
-Inspirational
-Respected
 Accessible outside class
 Oct 20th, 2025
 one of the most passionate profs at USC !!
-Caring
 Oct 13th, 2025
 This is by far the most unorganized course I have ever taken. What is the point of using brightspace if he is going to make his own version of brightspace. The contents are extremly hard to find, and he post a lot of unnecessary stuff to the page. Exams are very confusing and not much to reference from.
 CS100XG
 Sep 8th, 2025
 A very responsible professor! responded to my emails in less than an hour and the homework is actually fun. I had no background in computer science at all and this course is perfect for me.
-Hilarious
 Aug 11th, 2025
 Saty seems like a great guy but it doesn't translate into teaching. He's very passionate about this stuff but his lectures are full of tangents and videos that seems like stuff he just wants to talk about. Also, attendance is mandatory which is ridiculous for a grad class, and ends up with a lot of people talking in class and being disruptive.
 CSCI571
 Aug 4th, 2025
 Prof Saty's web tech class is wild fun! It is a 6 week version of the usual 15 week one. He has covered many many concepts, we still have a week to go! What used to be just words (React, SSR, routes...) are now firm pieces of knowledge for me. He also introduces the very latest in LLMs and agentic AI. The course exceeds my expectations wildly.
-Amazing lectures
 Jun 4th, 2025
 Grade: B+
 Best class I've taken at USC. Could not recommend more.
