@@ -10,6 +10,9 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+USC CS Course and Professor Reviews
+This project makes student experiences with USC computer science courses and professors searchable. The system focuses on information such as teaching style, workload, exam difficulty, grading practices, and course expectations gathered from student reviews and discussions. This knowledge is difficult to find through official university channels because course catalogs and department websites describe course content but rarely capture the day-to-day experiences and opinions shared by students.
+
 
 ---
 
@@ -20,18 +23,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
-
----
+| 1 | Saty Raghavachary (RMP) | Student reviews discussing teaching style, workload, exams, and overall course experience. | https://www.ratemyprofessors.com/professor/798241 |
+| 2 | USC Reddit - CSCI 572 with Saty | Student discussion about taking CSCI 572 with Professor Saty Raghavachary. | https://www.reddit.com/r/USC/comments/15ud6gx/how_is_csci_572_with_prof_saty/ |
+| 3 | USC Reddit - CSCI 585 | Student discussion about workload, projects, and difficulty of CSCI 585. | https://www.reddit.com/r/USC/comments/11jscpe/how_csci585_is/ |
+| 4 | Professor Reviews (RMP) | Student reviews for professor ID 1104782 covering grading, teaching quality, and course expectations. | https://www.ratemyprofessors.com/professor/1104782 |
+| 5 | USC Reddit - CSCI 571 Discussion | Student discussion regarding experiences and concerns related to CSCI 571. | https://www.reddit.com/r/USC/comments/15eqr36/the_csci_571_misrepresentation_scandal/ |
+| 6 | Professor Reviews (RMP) | Student reviews for professor ID 3125237 discussing course structure and instructor effectiveness. | https://www.ratemyprofessors.com/professor/3125237 |
+| 7 | Professor Reviews (RMP) | Student reviews for professor ID 2294843 discussing workload, grading, and teaching style. | https://www.ratemyprofessors.com/professor/2294843 |
+| 8 | USC Reddit - DSCI 552 | Student discussion about DSCI 552 workload, difficulty, and grading policies. | https://www.reddit.com/r/USC/comments/1co1472/any_thoughts_on_the_dsci_552_how_hard_is_it_to/ |
+| 9 | Professor Reviews (RMP) | Student reviews for professor ID 1307919 discussing classroom experience and course expectations. | https://www.ratemyprofessors.com/professor/1307919 |
+| 10 | USC Reddit - CSCI 526 / CSCI 538 | Student discussion comparing experiences in CSCI 526 and CSCI 538. | https://www.reddit.com/r/USC/comments/a7ued1/anyone_taken_csci_526_or_csci_538/ |
 
 ## Chunking Strategy
 
