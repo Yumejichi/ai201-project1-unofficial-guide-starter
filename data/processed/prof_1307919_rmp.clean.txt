@@ -1,0 +1,144 @@
+Logo
+Professors
+Caret Down
+Professor name
+University of Southern California
+Pencil Icon
+Scott Easley
+Computer Science
+Rate
+Compare
+Overall Quality Based on 31 ratings
+Professor in the Computer Science department at University of Southern California
+Level of Difficulty
+Arrow Icon
+I'm Professor Easley
+Rating Distribution
+Awesome 5
+Great 4
+Good 3
+OK 2
+Awful 1
+Similar Professors
+5.00
+Cyrus Shahabi
+David Chan
+Hao Jiang
+31 Student Ratings
+All courses
+CSCI526
+Dec 5th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: N/A
+He is a very humorous, patient and tolerant professor. I'm very grateful that I chose his course during my first semester at USC. He helped me start from scratch to complete my own game and taught me to view problems from the perspective of a developer.
+Helpful
+Thumbs up
+Thumbs down
+ITP215
+Apr 23rd, 2025
+Attendance: Not Mandatory
+Grade: A+
+I've taken three semesters with Scott, he's easily my favorite professor at USC. He genuinely cares about his students and wants them to get the most from his class, and he's stupid funny. If you're interested in animation/tech/games... etc you're missing out if you don't take a class from him.
+Participation matters
+Amazing lectures
+Hilarious
+Jan 9th, 2024
+Grade: A
+My experience taking this class was amazing! The is like a semester-long game jam where you dig deep into the steps of game development. It was a great way to learn how to iteratively design, approach minor elements of design that make a large impact to the player, learn technical skills (which really depends on how difficult you want to make it)
+Group projects
+Graded by few things
+Dec 19th, 2023
+genuinely such an amazing professor, really wants to help you learn and improve. he encourages students to reach out and ask questions, and almost all work was done in-class (little to no hw). super kind when giving feedback on models and very understanding of the life of college students. also brought pastries every week to lecture :)
+Gives good feedback
+Respected
+Dec 16th, 2023
+Professor Easley is verey nice. TAs are very helpful. In this class you will team up with 4~5 people to make a WebGL based game with Unity. Recommended for anyone who wants to make a game.
+EXTRA CREDIT
+Dec 13th, 2023
+This course needs students to make a group game project, but with some initial assignments about learning unity at the first month, which organizes pretty well. The professor mainly teaches game concepts and design, and TAs mainly teach the technical concepts. The workload is low except the first month, which is before doing the group project.
+Nov 27th, 2023
+Grade: A-
+Never would I have thought I would be able to do so much in 3d modeling! Professor Scott gave free cwossants and our project-based lectures were very helpful. He always bring positive energy to the class and makes great dad jokes. Really hope to take his classes again soon!
+Caring
+Apr 27th, 2023
+The class has nothing to do with mobile games or game consoles. You create your own game in Unity. There were maybe one or two lectures on Unity/C#--the rest you figure out by yourself. Class was pretty unstructured the first half of the semester, but that changed after student feedback. That said, the class is a fairly easy A and I learned a lot.
+Inspirational
+Lots of homework
+Apr 26th, 2023
+You pretty much have to teach yourself everything you need to complete your group's game prototype, so without prior experience, this is going to be very difficult and take a lot of time. That being said, if you DO have prior experience, this class is a great opportunity to develop a small game while honing your skills.
+Jan 27th, 2023
+Grade: Incomplete
+The Professor is actually not bad. However, the TA for only one of the batches (Powen Yao) has unnecessarily increased the workload for students. Unrealistic requirements like watching 60 hours of tutorials are set in addition to regular work. It's unnecessary work. I would much rather take another heavy and rewarding course, where work matters.
+Jan 26th, 2023
+Grade: Rather not say
+Things have changed. This class was great because it only required a light-weighted team project. The students could enjoy the game making and spare more time for job hunting. Now the week by week schedule is heavy, but the content of this course doesn't deserve too much time and effort.
+Tough grader
+Online Savvy
+Jan 16th, 2023
+Grade: B+
+The grading guildline is a blackbox. Students get suggestions to improve their games from Scott, the TA, and CPs every week. While they don't know which improvement will be really considered in final grading. Only midterm & final are considered for the final grade, but only a letter grade was given in the end without any explanation.
+Jan 14th, 2023
+Attendance is mandatory but the room is overpopulated. 1/4 students must stand/sit on the hallway. Each class contains a 2hr+ game demo. 3/4 groups must leave the room when demo. Most groups stand/sit on the grass and discuss for 2 hours.
+Jan 9th, 2023
+The course content didn't match its name, "Advanced Mobile Devices and Game Consoles". The class only has one unity based browser game (webGL). The instructor only mentioned the difference between regular and mobile games for 1 hour. Nothing about game consoles were mentioned. It should be renamed to "Unity Game Design".
+CSCI281
+May 17th, 2022
+I strongly recommend this course to anyone with an interest but novice experience in 3D modeling. Professor Easley is a caring professor who walks students through a few models before assigning individual final projects to showcase what they learned. Constantly encourages students to ask questions. Grading wasn't released until the end of the class
+CTAN443
+May 15th, 2022
+Scott has been so helpful in his rigging class. I have learned a lot from him. He would also provide very useful plugins and scripts and techniques that have been widely used in the industry. Students definitely can learn a lot from him!
+Oct 5th, 2021
+Textbook: No
+It was a fun and practical class to take in the summer. Entire class is graded by one group project on making a game in Unity. Professor is very friendly can helpful.
+Computer IconCSCI526
+Aug 2nd, 2021
+Online Class: Yes
+Entire class is based on one single group project of making a mobile/webGl game in Unity. It was a fun class to take in the summer session. The professor is very caring and friendly.
+Computer IconITP215
+Apr 30th, 2021
+Really understood that this was a 2 unit course online during a pandemic. The class was paced well, and you could almost always get your homework done in class. Scott is such a fun guy too. Ask him about his high school ska band
+Nov 6th, 2020
+Grade: Not sure yet
+amazing prof! the class is a little time consuming but scott makes the lectures interesting. great guy, gives breaks during class and sometimes shows his cats during class. total dad, super passionate about his job, one of the best professors you can take at usc
+Accessible outside class
+Apr 27th, 2020
+No complaints. He really cares about your learning experience, and he can be really easy-going as long as you're at least trying. Grading is done by a TA, and they're usually pretty easygoing too. The lectures will kill you though. You've got to pay attention the whole time, and 3-and-a-half hours is no joke.
+Lecture heavy
+Apr 18th, 2020
+Would Take Again: No
+CSCI281 is a really easy class with not a lot of work, and Professor Easley is very understanding and lenient. However, if you are not a fan of 3D modeling, the course gets really tedious really quick. The 4 hour lectures are very difficult to stay focused in, which can be problematic.
+Nov 12th, 2019
+Scott is a very passionate professor that really helps and cares about his students. He really supports students helping each other, which may make it hard to get a direct answer to a question you have.
+Aug 16th, 2019
+The professor is one of the best professors I've ever had. He gives clear feedback, encourage his students to think creatively and clearly explain difficult and complex topics.
+May 11th, 2017
+Best prof. I've had at USC so far. He is really knowledgeable and gives amazing lectures. He gives students insights into the gaming industry. As long as you spend about 4 hours on each of your models, this is an EASY A. Highly recommend this professor & class, it's been a great experience for me.
+Apr 26th, 2016
+Good.
+CSCI180
+Apr 18th, 2014
+Easley is a great teacher. In Pipelines, you learn how to make low-poly models for games. The work isn't easy, but the grading is easy. Oftentimes you'll be harder on yourself than he will be.
+Apr 16th, 2012
+Scott is practically one of the nicest instructors you will meet. He is passionate about his work, the class is absolutely fun and interesting, and if you spend an adequate amount to your work you will do just fine. This was one class I couldn't want to go to.
+Jan 10th, 2011
+He cares a lot about the students-fun guy. He likes what he does (or acts like it). Understandable/sympathetic to students with no previous experience but that put in effort. Communication issues with TA. Very late grading. What u learn is easy to forget if ur not continuously creating models-PDFs with step by step How-Dos would be really helpful.
+Dec 15th, 2010
+Scott Easley is easily one of the best professors at USC. He's gives great advice on how to improve your 3D models without being condescending at all, and you learn something useful every time he talks. He also cares a lot about his students and encourages us to model things that matter to us to increase our interest in Maya.
+Jul 31st, 2009
+Not really your typical class. It's hands on from beginning to end. Scott's funny. If you want to do well, make sure he knows who you are, and just make good models (he might use you for cool side projects). If you make something mechanical, put wear and grease in the joints. TRUST ME. He loves that.
+Tech News & Deals from PCWorld & Macworld
+The ROG Ally X20 is basically the same handheld with OLED and gold trim
+Microsofts Scout AI agent is aimed directly at your workplace
+Valve says Steam Machine lands this summer, doesnt say the price
+Highly Rated for a Reason
+BrilliantEarth
+Rate My Professors, PCWorld and Macworld are part of the Foundry network. Recommendations powered by TaboolaU.S. Privacy
+Site Guidelines
+Terms & Conditions
+Privacy Policy
+Copyright Compliance Policy
+CA Notice at Collection
+Do Not Sell My Personal Information
+2026 Rate My Professors, LLC. All Rights Reserved

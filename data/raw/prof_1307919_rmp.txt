@@ -1,0 +1,673 @@
+Logo
+
+Professors
+Caret Down
+Professor name
+at
+
+University of Southern California
+Pencil Icon
+Log In
+Sign Up
+Help
+
+
+Scott Easley
+Computer Science
+University of Southern California
+Rate
+Compare
+4.2
+/ 5
+Overall Quality Based on 31 ratings
+Scott Easley
+Professor in the Computer Science department at University of Southern California
+72%
+Would take again
+2.5
+Level of Difficulty
+
+Rate
+Arrow Icon
+Compare
+I'm Professor Easley
+Rating Distribution
+Awesome 5
+
+19
+Great 4
+
+5
+Good 3
+
+3
+OK 2
+
+3
+Awful 1
+
+1
+Similar Professors
+5.00
+Cyrus Shahabi
+5.00
+David Chan
+5.00
+Hao Jiang
+
+/
+
+
+
+31 Student Ratings
+All courses
+Quality
+5.0
+Difficulty
+1.0
+CSCI526
+Dec 5th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: N/A
+He is a very humorous, patient and tolerant professor. I'm very grateful that I chose his course during my first semester at USC. He helped me start from scratch to complete my own game and taught me to view problems from the perspective of a developer.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+5.0
+Difficulty
+3.0
+ITP215
+Apr 23rd, 2025
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+I've taken three semesters with Scott, he's easily my favorite professor at USC. He genuinely cares about his students and wants them to get the most from his class, and he's stupid funny. If you're interested in animation/tech/games... etc you're missing out if you don't take a class from him.
+Participation matters
+Amazing lectures
+Hilarious
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+4.0
+CSCI526
+Jan 9th, 2024
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+My experience taking this class was amazing! The is like a semester-long game jam where you dig deep into the steps of game development. It was a great way to learn how to iteratively design, approach minor elements of design that make a large impact to the player, learn technical skills (which really depends on how difficult you want to make it)
+Group projects
+Amazing lectures
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+5.0
+Difficulty
+2.0
+ITP215
+Dec 19th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+genuinely such an amazing professor, really wants to help you learn and improve. he encourages students to reach out and ask questions, and almost all work was done in-class (little to no hw). super kind when giving feedback on models and very understanding of the life of college students. also brought pastries every week to lecture :)
+Gives good feedback
+Hilarious
+Respected
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+3.0
+CSCI526
+Dec 16th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Professor Easley is verey nice. TAs are very helpful. In this class you will team up with 4~5 people to make a WebGL based game with Unity. Recommended for anyone who wants to make a game.
+EXTRA CREDIT
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+4.0
+Difficulty
+2.0
+CSCI526
+Dec 13th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: N/A
+This course needs students to make a group game project, but with some initial assignments about learning unity at the first month, which organizes pretty well. The professor mainly teaches game concepts and design, and TAs mainly teach the technical concepts. The workload is low except the first month, which is before doing the group project.
+EXTRA CREDIT
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+2.0
+ITP215
+Nov 27th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Never would I have thought I would be able to do so much in 3d modeling! Professor Scott gave free cwossants and our project-based lectures were very helpful. He always bring positive energy to the class and makes great dad jokes. Really hope to take his classes again soon!
+Gives good feedback
+Hilarious
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+3.0
+Difficulty
+2.0
+CSCI526
+Apr 27th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+The class has nothing to do with mobile games or game consoles. You create your own game in Unity. There were maybe one or two lectures on Unity/C#--the rest you figure out by yourself. Class was pretty unstructured the first half of the semester, but that changed after student feedback. That said, the class is a fairly easy A and I learned a lot.
+Group projects
+Inspirational
+Lots of homework
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+3.0
+Difficulty
+3.0
+CSCI526
+Apr 26th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: N/A
+You pretty much have to teach yourself everything you need to complete your group's game prototype, so without prior experience, this is going to be very difficult and take a lot of time. That being said, if you DO have prior experience, this class is a great opportunity to develop a small game while honing your skills.
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+1.0
+Difficulty
+4.0
+CSCI526
+Jan 27th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Incomplete
+Textbook: N/A
+The Professor is actually not bad. However, the TA for only one of the batches (Powen Yao) has unnecessarily increased the workload for students. Unrealistic requirements like watching 60 hours of tutorials are set in addition to regular work. It's unnecessary work. I would much rather take another heavy and rewarding course, where work matters.
+Group projects
+Lots of homework
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+3.0
+Difficulty
+4.0
+CSCI526
+Jan 26th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: N/A
+Things have changed. This class was great because it only required a light-weighted team project. The students could enjoy the game making and spare more time for job hunting. Now the week by week schedule is heavy, but the content of this course doesn't deserve too much time and effort.
+Tough grader
+Online Savvy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+2.0
+Difficulty
+4.0
+CSCI526
+Jan 16th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: B+
+Textbook: N/A
+The grading guildline is a blackbox. Students get suggestions to improve their games from Scott, the TA, and CPs every week. While they don't know which improvement will be really considered in final grading. Only midterm & final are considered for the final grade, but only a letter grade was given in the end without any explanation.
+Tough grader
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+2.0
+Difficulty
+3.0
+CSCI526
+Jan 14th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: A-
+Textbook: N/A
+Attendance is mandatory but the room is overpopulated. 1/4 students must stand/sit on the hallway. Each class contains a 2hr+ game demo. 3/4 groups must leave the room when demo. Most groups stand/sit on the grass and discuss for 2 hours.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+2.0
+Difficulty
+3.0
+CSCI526
+Jan 9th, 2023
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: N/A
+The course content didn't match its name, "Advanced Mobile Devices and Game Consoles". The class only has one unity based browser game (webGL). The instructor only mentioned the difference between regular and mobile games for 1 hour. Nothing about game consoles were mentioned. It should be renamed to "Unity Game Design".
+Participation matters
+Graded by few things
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+3.0
+CSCI281
+May 17th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+I strongly recommend this course to anyone with an interest but novice experience in 3D modeling. Professor Easley is a caring professor who walks students through a few models before assigning individual final projects to showcase what they learned. Constantly encourages students to ask questions. Grading wasn't released until the end of the class
+Inspirational
+Caring
+Graded by few things
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+5.0
+Difficulty
+3.0
+CTAN443
+May 15th, 2022
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Scott has been so helpful in his rigging class. I have learned a lot from him. He would also provide very useful plugins and scripts and techniques that have been widely used in the industry. Students definitely can learn a lot from him!
+Inspirational
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+2.0
+CSCI526
+Oct 5th, 2021
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: No
+It was a fun and practical class to take in the summer. Entire class is graded by one group project on making a game in Unity. Professor is very friendly can helpful.
+Gives good feedback
+Inspirational
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+5.0
+Difficulty
+3.0
+Computer IconCSCI526
+Aug 2nd, 2021
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+Entire class is based on one single group project of making a mobile/webGl game in Unity. It was a fun class to take in the summer session. The professor is very caring and friendly.
+Gives good feedback
+Group projects
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+2.0
+Computer IconITP215
+Apr 30th, 2021
+For Credit: Yes
+Would Take Again: Yes
+Textbook: No
+Online Class: Yes
+Really understood that this was a 2 unit course online during a pandemic. The class was paced well, and you could almost always get your homework done in class. Scott is such a fun guy too. Ask him about his high school ska band
+Hilarious
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+3.0
+Computer IconITP215
+Nov 6th, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+amazing prof! the class is a little time consuming but scott makes the lectures interesting. great guy, gives breaks during class and sometimes shows his cats during class. total dad, super passionate about his job, one of the best professors you can take at usc
+Accessible outside class
+Caring
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+2.0
+CSCI281
+Apr 27th, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: No
+No complaints. He really cares about your learning experience, and he can be really easy-going as long as you're at least trying. Grading is done by a TA, and they're usually pretty easygoing too. The lectures will kill you though. You've got to pay attention the whole time, and 3-and-a-half hours is no joke.
+Gives good feedback
+Group projects
+Lecture heavy
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+4.0
+Difficulty
+1.0
+CSCI281
+Apr 18th, 2020
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Textbook: No
+CSCI281 is a really easy class with not a lot of work, and Professor Easley is very understanding and lenient. However, if you are not a fan of 3D modeling, the course gets really tedious really quick. The 4 hour lectures are very difficult to stay focused in, which can be problematic.
+Respected
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+2.0
+CTAN443
+Nov 12th, 2019
+For Credit: Yes
+Would Take Again: Yes
+Textbook: No
+Scott is a very passionate professor that really helps and cares about his students. He really supports students helping each other, which may make it hard to get a direct answer to a question you have.
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+
+Quality
+5.0
+Difficulty
+3.0
+CSCI526
+Aug 16th, 2019
+For Credit: Yes
+Would Take Again: Yes
+Textbook: No
+The professor is one of the best professors I've ever had. He gives clear feedback, encourage his students to think creatively and clearly explain difficult and complex topics.
+Gives good feedback
+Respected
+Inspirational
+Helpful
+Thumbs up
+0
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+2.0
+CSCI281
+May 11th, 2017
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Best prof. I've had at USC so far. He is really knowledgeable and gives amazing lectures. He gives students insights into the gaming industry. As long as you spend about 4 hours on each of your models, this is an EASY A. Highly recommend this professor & class, it's been a great experience for me.
+Gives good feedback
+Hilarious
+Amazing lectures
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+
+Quality
+4.0
+Difficulty
+1.0
+CSCI526
+Apr 26th, 2016
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: A
+Textbook: No
+Good.
+Helpful
+Thumbs up
+3
+Thumbs down
+1
+
+Quality
+4.5
+Difficulty
+1.0
+CSCI180
+Apr 18th, 2014
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Easley is a great teacher. In Pipelines, you learn how to make low-poly models for games. The work isn't easy, but the grading is easy. Oftentimes you'll be harder on yourself than he will be.
+Helpful
+Thumbs up
+0
+Thumbs down
+3
+
+
+Quality
+5.0
+Difficulty
+2.0
+CSCI180
+Apr 16th, 2012
+Textbook: No
+Scott is practically one of the nicest instructors you will meet. He is passionate about his work, the class is absolutely fun and interesting, and if you spend an adequate amount to your work you will do just fine. This was one class I couldn't want to go to.
+Helpful
+Thumbs up
+2
+Thumbs down
+0
+
+Quality
+4.0
+Difficulty
+2.0
+CSCI281
+Jan 10th, 2011
+Textbook: No
+He cares a lot about the students-fun guy. He likes what he does (or acts like it). Understandable/sympathetic to students with no previous experience but that put in effort. Communication issues with TA. Very late grading. What u learn is easy to forget if ur not continuously creating models-PDFs with step by step How-Dos would be really helpful.
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+5.0
+Difficulty
+3.0
+CSCI281
+Dec 15th, 2010
+Textbook: No
+Scott Easley is easily one of the best professors at USC. He's gives great advice on how to improve your 3D models without being condescending at all, and you learn something useful every time he talks. He also cares a lot about his students and encourages us to model things that matter to us to increase our interest in Maya.
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Quality
+4.5
+Difficulty
+3.0
+CSCI281
+Jul 31st, 2009
+Textbook: No
+Not really your typical class. It's hands on from beginning to end. Scott's funny. If you want to do well, make sure he knows who you are, and just make good models (he might use you for cool side projects). If you make something mechanical, put wear and grease in the joints. TRUST ME. He loves that.
+Helpful
+Thumbs up
+1
+Thumbs down
+0
+
+Tech News & Deals from PCWorld & Macworld
+The ROG Ally X20 is basically the same handheld with OLED and gold trim
+Microsoft’s Scout AI agent is aimed directly at your workplace
+Valve says Steam Machine lands this summer, doesn’t say the price
+Highly Rated for a Reason
+BrilliantEarth
+|
+Sponsored
+Rate My Professors, PCWorld and Macworld are part of the Foundry network. Recommendations powered by TaboolaU.S. Privacy
+
+Help
+Site Guidelines
+Terms & Conditions
+Privacy Policy
+Copyright Compliance Policy
+CA Notice at Collection
+Do Not Sell My Personal Information
+Logo
+© 2026 Rate My Professors, LLC. All Rights Reserved

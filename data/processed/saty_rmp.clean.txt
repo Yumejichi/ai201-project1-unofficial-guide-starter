@@ -1,0 +1,194 @@
+Logo
+Professors
+Caret Down
+Professor name
+University of Southern California
+Pencil Icon
+Saty Raghavachary
+Computer Science
+Rate
+Compare
+Jump To Ratings Down Arrow
+Overall Quality Based on 244 ratings
+Professor in the Computer Science department at University of Southern California
+Level of Difficulty
+Arrow Icon
+I'm Professor Raghavachary
+Rating Distribution
+Awesome 5
+Great 4
+Good 3
+OK 2
+Awful 1
+Similar Professors
+5.00
+Cyrus Shahabi
+David Chan
+Hao Jiang
+00:00
+244 Student Ratings
+All courses
+CSCI572
+May 6th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+The only reason to take a Saty class is if you NEED a free A and need to focus on research/work/real classes. 572 is a disgrace to USC as a grad level class. You learn a first year undergrad level of depth in the topics. He does not respect your time at all and posts HW assignments on his own insane schedule (HW2 had a month deadline, HW4 4 DAYS)
+Helpful
+Thumbs up
+Thumbs down
+CS585
+Apr 30th, 2026
+I'm genuinely baffled how this professor is allowed to continue teaching this course. He's obsessed with AI, and uses 40-50 minutes of our 3 hour lecture (attendance mandatory, btw) to talk about current AI news. Our last homework was to build an agentic AI, which was cool but has literally nothing to do with database systems. Not worth the tuition
+Lecture heavy
+Graded by few things
+CSCI585
+Apr 13th, 2026
+Grade: A
+Knowledgeable and passionate - all the positive I can say. Exam is heavily unrelated to Databases and mostly about AI. Has a bit of a complex, like when I had an emergency life threatening situation, he stopped listening unless I said Professor (when I accidentally called him Mr. and he just said "try again"). Good class for an easy A though.
+Jan 23rd, 2026
+Grade: Drop/Withdrawal
+I listened to two weeks of his lectures and dropped his class. Every lecture, he just goes on a stream of consciousness talk about agentic AI. There's a lack of focus on the topics the course should be covering. Save your money and take something else. You can probably learn the same stuff for free online.
+Jan 16th, 2026
+rumor says he writes his own reviews and i think it's true reading this page
+Jan 14th, 2026
+Grade: Rather not say
+bro talks like he just ripped a fat line
+Dec 7th, 2025
+Grade: Incomplete
+We have three more days until final and guess what? new assignment that has nothing to do with the final! And we still havent gotten anything useful related to final. not a study guide, no clarity on exam materials, but at least we got this complicated homework which we will work on on top of learning everything by ourselves. Avoid at all cost.
+Participation matters
+Dec 3rd, 2025
+Waste of tuition. Instead of Databases, we spent the semester on high-level AI news. Homework was just AI prompting. Lectures are useless and I learned nothing. It's an easy pass without studying, but shocking that USC allows such a low-quality course. Skip this professor.
+Dec 2nd, 2025
+Textbook: Yes
+Bad bad bad humor, good luck sitting through his sarcastic jokes while we are all desperate because he wouldn't confirm on what's on the exam. To find the syllabus, you need to scroll through countless bs before you even find anything course related on brightspace. Dont get me wrong, he is a genuinely a good person, just horrible as a professor.
+cs572
+Nov 13th, 2025
+You can learn about search engines in this course, but the exam is too obscure and confusing to answer correctly, even with thorough preparation. Homework isn't posted in Brightspace, only on the course site. Miss one and there's no grace period. Assignments are disorganized and often contain errors. Don't take CSCI 572.
+Nov 11th, 2025
+I took the class coz people said his class is easy and very useful, but I did not find it easy and useful at all. His class is about Information Retrival but he talks about AI agents 90% of the time. Also, never trust the tips he gives they never show up in the exam. Study old papers to get good score in the first mid term.
+Test heavy
+Nov 10th, 2025
+Would Take Again: Yes
+Professor is making this course be a well rounded and amazing intro. We are learning IR but also, 'AIR' as he likes to call it. Classes are long but go by quickly. Take this course for sure, it is IR++. Thank you, Professor Saty, for helping your students in many ways.
+Inspirational
+Respected
+Accessible outside class
+Oct 20th, 2025
+one of the most passionate profs at USC !!
+Caring
+Oct 13th, 2025
+This is by far the most unorganized course I have ever taken. What is the point of using brightspace if he is going to make his own version of brightspace. The contents are extremly hard to find, and he post a lot of unnecessary stuff to the page. Exams are very confusing and not much to reference from.
+CS100XG
+Sep 8th, 2025
+A very responsible professor! responded to my emails in less than an hour and the homework is actually fun. I had no background in computer science at all and this course is perfect for me.
+Hilarious
+Aug 11th, 2025
+Saty seems like a great guy but it doesn't translate into teaching. He's very passionate about this stuff but his lectures are full of tangents and videos that seems like stuff he just wants to talk about. Also, attendance is mandatory which is ridiculous for a grad class, and ends up with a lot of people talking in class and being disruptive.
+CSCI571
+Aug 4th, 2025
+Prof Saty's web tech class is wild fun! It is a 6 week version of the usual 15 week one. He has covered many many concepts, we still have a week to go! What used to be just words (React, SSR, routes...) are now firm pieces of knowledge for me. He also introduces the very latest in LLMs and agentic AI. The course exceeds my expectations wildly.
+Amazing lectures
+Jun 4th, 2025
+Grade: B+
+Best class I've taken at USC. Could not recommend more.
+Tough grader
+DSCI250
+Good class
+Lots of homework
+May 14th, 2025
+Professor Saty's IR course plus the DB one are the top two MS CS courses imo. I took both because my seniors advised back home to do it, glad I did. His courses cover more than the syllabus, that's 'cuz he goes over the latest in the industry (AI, mostly LLMs and agents). I feel so prepared for the outside world (I graduate in December). TY Prof!
+May 3rd, 2025
+This course was gold! In addition to the usual (web crawling, indexing, ranking), Prof Saty presented way more! I feel bad about missing future versions of this course, I learned SO much about current tech from his intros in each lecture. Prof Saty is the most knowledgeable and also most caring Prof I have ever met. A+ for the course+Prof.
+CSCI580
+May 1st, 2025
+I took 3 of Saty's grad-level classes: 585, 580, and 572. Of all of them, CSCI 580 (3d graphics and rendering) is the smallest and definitely his passion. He's done so much cool work in the animation field (def ask him about it) and you can tell he enjoys that class more than the massive + easy 585/572. Please take 580!! not too hard and super fun
+Apr 28th, 2025
+Grade: A-
+I took 572 in the fall, and got introduced to agents, photorealistic map tiles and similar cool stuff. The professor has a knack for packing so much into each lecture (too much at times but I'll take it over fluff any day). Attendance matters a lot, long lectures suck. The professor is very caring, knowledgeable and seemed to want the best for us.
+Apr 25th, 2025
+This is a search engines course, and professor provided a complete overview of aspects. The amazing thing is, each lecture he brings us to speed on industry trends. I got an Intel internship just from that content he shared. Long classes though. He plays loud EDM at breaks, that helps :) I highly recommend this class.
+Apr 11th, 2025
+Prof Saty's courses are why I got my internship, then job, last year. They are the best courses at USC CS. He covers concepts clearly, with lots of examples, and history. My older colleagues are amazed at the background I have. The reviews before mine don't reflect reality. If you don't understand English, it's your problem, not the prof's.
+Mar 24th, 2025
+Professor Saty know much, but teaching too fast, hard follow. Explain difficult concept quick, make confuse. Homework hard, not enough example. Ask question, answer not always clear. Grading strict, small mistake lose point. If already good, maybe okay, but beginner struggle. Office hour help, but hard get time. Not best for slow learner.
+Mar 9th, 2025
+Professor Raghavachary's class was frustrating and disorganized. Lectures often went off-topic, making it hard to follow the main concepts. Assignments didn't align with the material, leaving students to figure things out on their own. Communication and guidance were lacking, which was confusing. Overall, it was not a good learning experience.
+Jan 13th, 2025
+Saty is a nice guy, but this class was just a mess. Lectures were 2hrs of tangential rambling with mandatory attendance. Homeworks make up a majority of your grade, but these are all basically self-taught and have incredibly vague expectations/instructions. Also a heinous midterm.
+Jan 10th, 2025
+Love Saty! He's so passionate about DS and genuinely cares about his students. The 4 HWs were easy but the midterm was hard. He took this feedback and made the final easier. He takes random roll call each class and his lectures tend to not have an structured format but are practical in the content. He's quirky in the best way possible - take him!
+Professor Saty is an amazing professor who truly inspired my academic pursuits in data science. His lectures are very up-to-date, so you learn a LOT about real-world applications of data. He genuinely cares about his students, and homework and exams are thought-provoking. If you're into data, this is a class you don't want to miss with him!!
+Jan 9th, 2025
+Another highly satisfied student here, to counter the wrong negative reviews about the professor and the course. The complaints just don't match reality. His "rambling" is him trying to show us what DS is becoming. The material is "easy" because it is literally the first course in the DS sequence! Professor Saty was clear, engaging.
+This course taught me more than I expected going in, thanks to the prof who explained the latest in ML (LLMs! during each lecture. Shocking to see the negative comments, given the prof modded the course to fit how data science is evolving, that's a problem? The homework and exam grading delays were terrible though, it's like the TAs didn't care.
+Jan 8th, 2025
+If you're struggling because you can't self learn a few topics (a crucial skill for the field this class is preparing us for) then just say that. Personally, this class was so fascinating and informative that it literally made me switch majors.
+All the "tangents" the professor goes on during lectures are incredibly engaging and offer great opportunities to learn more about data science if you're genuinely interested. If you're not, then the course materials provided are more than sufficient to do great on the homeworks and exams. Honestly, the course couldn't be more straightforward.
+Clear grading criteria
+Jan 1st, 2025
+When a CS/DS class has mandatory attendance, it is mostly likely to be a useless class. HW is easy, exam is just about coping from cheat sheet. Trust me, you will learn almost nothing in this course.
+Computer IconCS101
+Dec 26th, 2024
+Online Class: Yes
+good teaching style
+Dec 22nd, 2024
+Unlike most of the reviews, I actually enjoyed this class. Yes, you can't really attain much info from the lectures, but the slides themselves are useful - especially given this is a basics class. Tests are easy if you study (you get a cheat sheet), professor is kind, homeworks are interesting. Overall not a bad class, just a bit disorganized
+Dec 20th, 2024
+Very accomodating professor (unlike so many other USC professors). Exam is easy if you actually attended lecture. Homework is very easy. There is 5 homework and each should take about 3 hours on average. The only downside is that he takes attendance and you must show up.
+Dec 19th, 2024
+This wasn't just a course, it was an eye opener to the future!! Lectures rocked, exams rocked, homeworks rocked, "extras" (my favorite part!) rocked. Prof. Saty: mucho respect!
+CSCI100
+Dec 17th, 2024
+Yeah Saty is nice and all but I felt bamboozled from these reviews. Homework and tests don't coincide with lectures at all. Also drops the last two homeworks super late including the final so the class just seemed super unorganized. TAs were super slow graders, but Duke was the goat!!!!!! Would definitely reccomend doing another math GE
+Dec 16th, 2024
+These positive reviews must be fake. Saty may be a nice guy but he has no idea how to lecture. So many boring tangents that almost made me fall asleep. Ridiculous attendance policy and the most absurd midterm ever. Some interesting topics are covered but this course will never be good until they change the instructor
+Dec 13th, 2024
+Attendance: Not Mandatory
+This course was perfect for me. I had no CS background but still managed to do well. Prof is chill, said many things about computers I had no idea about. Best F category GE ever, lol.
+Professor Saty's course gave me the best foundation I could ever hope for. He taught us all the data science basics, plus all the new stuff too. I have a notebook full to sites and software I wrote down to try after the course. Thank you Professor.
+Dec 12th, 2024
+Nice person, but the course is pretty much useless and made me question the worth of staying in Econ/DS major instead of pure econ or econ/math. Luckily it's a very easy class, but most of the content is vague big picture stuff. He rambles endlessly on tangents while effectively saying nothing. Also, 90% of the positive reviews are by him lmao.
+Dec 11th, 2024
+Half of these reviews that I am reading must be fake. He has changed the exams recently because they are NOT easy. He does not tell you what will be on the exams. His lectures are useless. He rambles on and on about random topics just because he thinks they are "cool". The HW, lectures, and exams are completely unrelated. This class is a joke.
+Dec 8th, 2024
+He's rly sweet but this class is not it. Lectures suck bc he rambles and yaps about random topics, but attendance is now mandatory (randomly calls on ppl, points r taken off if ur absent). Midterm was not straightforward and tested on small details. I feel like I learned nothing. Had to teach myself the content. HW also doesn't align with lectures.
+CS101
+Nov 25th, 2024
+Saty is really nice and this is definitely a good professor/class to take as a science GE. You definitely should show up as he takes attendance at random but it's a really chill class. He's accomodating and the TAs will explain what you don't understand. CS can be an intimidating topic but he makes it more approachable!
+Nov 10th, 2024
+I am in this course rn, what a treat! Loooong lectures but the prof makes time go fast. I made so much notes each time about stuff he casually brings up. I have used search almost my whole life, now I get how it actually works. Attendance is so required, you lose points if you skip. But it is fun to attend. He sings (well!) during the break!
+Jun 19th, 2024
+Prof Saty is why I got internships, plus a job now (I graduated in May). I learned something new in every lecture, every homework and even the two exams. I highly recommend him to anyone who wants to learn lasting CS content. Not sure what is up with the negative reviews, sour grapes maybe? He is one of the kindest, smartest people I've ever met.
+May 15th, 2024
+Grade: C
+Avoid as much as possible! This professor even called us GROSS.grading scale was not at all according to syllabus. I've never seen it possible to take a class as a scam,the night before the final he post fake exam hints to confuse you .this professor doesn't know how to respect but does ask his students to treat him like a dictator.
+CS580
+May 8th, 2024
+SUCH a cool class! The lecture material is so interesting, especially since Saty literally worked at Dreamworks! You learn the most doing the HW, which are pretty intuitive (instructions are a little unclear though). Overall a very chill, educational class that made me kinda want to go into the field lol. Making your own renderer is so fun!
+Apr 27th, 2024
+Avoid if possible. No explanation for the exams. Graders were messed up. Exams are messed up. Zero explanation on Piazza. Glad I took DBMS in undergraduate. Not sure why, but this DBMS course is talking about Machine learning lol.
+Get ready to read
+Apr 17th, 2024
+This is my last term, so I picked Prof Saty's class to learn about CG. I made a great choice! The course is beyond amazing, each lecture we are treated to mind-blowing material that includes algorithms, CG history and current trends (translation: ML)! The professor's superpower is to explain things simply and clearly. Now I want to pursue more CG!
+Mar 29th, 2024
+Professor Saty is a really friendly professor and his lectures are not limited to the course syllabus but also give information about current technology, which is actually great. So I would definitely encourage upcoming students to enroll in his class.
+Mar 28th, 2024
+Avoid if possible. Classes were fun. But course producers and graders suck. Hw are vague, limited responses from Piazza. Basically no explanation.
+Load More Ratings
+Tech News & Deals from PCWorld & Macworld
+These 4 changes that will make macOS 27 massively better
+Should you buy a Mac Studio now or wait?
+Ditch your $20/month ChatGPT feeA new app gives you Claude, Gemini, and GPT for $30
+Here's What A Walk-In Shower Should Cost You In San Francisco
+HomeBuddy
+Rate My Professors, PCWorld and Macworld are part of the Foundry network. Recommendations powered by Taboola
+Site Guidelines
+Terms & Conditions
+Privacy Policy
+Copyright Compliance Policy
+CA Notice at Collection
+Do Not Sell My Personal Information
+2026 Rate My Professors, LLC. All Rights Reserved
