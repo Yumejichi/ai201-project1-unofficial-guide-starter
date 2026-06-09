@@ -42,11 +42,13 @@ This project makes student experiences with USC computer science courses and pro
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+300 tokens
 
 **Overlap:**
+50 tokens
 
 **Reasoning:**
-
+My document collection contains both short Rate My Professors reviews and longer Reddit discussions. A chunk size of approximately 300 tokens is large enough to preserve complete thoughts about teaching style, exams, workload, or grading while still being small enough for precise retrieval. I will use a 50-token overlap so that important information near chunk boundaries is not lost. Before chunking, I will remove unnecessary text such as navigation elements, metadata, and other non-content text when possible.
 ---
 
 ## Retrieval Approach
@@ -58,11 +60,12 @@ This project makes student experiences with USC computer science courses and pro
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+all-MiniLM-L6-v2 (sentence-transformers)
 
 **Top-k:**
-
+4
 **Production tradeoff reflection:**
-
+I chose all-MiniLM-L6-v2 because it is free, runs locally, and is commonly used for semantic search tasks. For a production system, I would compare larger embedding models that may provide better retrieval quality, multilingual support, and domain-specific understanding. I would also consider latency, API cost, and context length when selecting an embedding model.
 ---
 
 ## Evaluation Plan
@@ -74,11 +77,11 @@ This project makes student experiences with USC computer science courses and pro
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students say about Saty Raghavachary's teaching style? | Students describe Saty's teaching style, communication, and classroom effectiveness. The answer should be grounded in the collected reviews and Reddit discussion. |
+| 2 | How difficult do students think CSCI 572 is? | Students discuss the workload, project difficulty, and overall challenge level of CSCI 572. |
+| 3 | What concerns were raised about CSCI 571? | The answer should summarize the issues and concerns discussed in the CSCI 571 Reddit thread. |
+| 4 | What do students say about the workload in DSCI 552? | Students describe the workload, assignments, projects, and time commitment required for DSCI 552. |
+| 5 | How do students compare CSCI 526 and CSCI 538? | Students compare the difficulty, workload, course content, and recommendations for taking CSCI 526 versus CSCI 538. |
 
 ---
 
@@ -88,9 +91,9 @@ This project makes student experiences with USC computer science courses and pro
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1.Some documents contain informal language, jokes, or conflicting opinions that may make retrieval and summarization difficult.
 
-2.
+2.Important information may be split across multiple comments or chunk boundaries, causing retrieval to miss part of the context needed for a complete answer.
 
 ---
 
@@ -101,7 +104,14 @@ This project makes student experiences with USC computer science courses and pro
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
-
+```mermaid
+flowchart LR
+    A[Document Ingestion<br/>Python] --> B[Chunking<br/>Custom Chunker]
+    B --> C[Embeddings<br/>all-MiniLM-L6-v2]
+    C --> D[Vector Store<br/>ChromaDB]
+    D --> E[Retrieval<br/>Top-k Search]
+    E --> F[Generation<br/>Groq Llama 3.3]
+```
 ---
 
 ## AI Tool Plan
@@ -118,6 +128,12 @@ This project makes student experiences with USC computer science courses and pro
 
 **Milestone 3 — Ingestion and chunking:**
 
+I will use Claude to help implement document loading, cleaning, and chunking. I will provide my document list and chunking strategy and ask for a chunking function that produces approximately 300-token chunks with overlap. I will verify the output by manually inspecting sample chunks.
+
 **Milestone 4 — Embedding and retrieval:**
 
+I will use Claude to help implement embedding generation and ChromaDB retrieval. I will provide my Retrieval Approach section and architecture diagram and ask for code that loads chunks from the ingestion pipeline, embeds them using all-MiniLM-L6-v2, stores them in ChromaDB, and retrieves the top 4 most relevant chunks for a query. I will verify retrieval quality by testing several evaluation questions and inspecting the returned chunks.
+
 **Milestone 5 — Generation and interface:**
+
+I will use Claude to help implement grounded answer generation and the query interface. I will provide my retrieval pipeline and grounding requirements and ask for code that uses Groq's Llama model to answer questions using only retrieved context. I will verify that responses include source attribution and that unsupported questions return an "I don't have enough information" style response.
