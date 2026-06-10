@@ -1,7 +1,7 @@
 # The Unofficial Guide — Project 1
 
 > **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
+> Complete each section _after_ you've built and tested the corresponding part of your system.
 > Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
 > Every section below is required for submission. One-liners will not receive full credit.
 
@@ -13,6 +13,7 @@
      Why is this knowledge valuable, and why is it hard to find through official channels?
      Example: "Student reviews of CS professors at [university] — useful because official
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+
 This system covers USC Computer Science course and professor reviews. It makes student experiences with USC CS courses and professors searchable and answerable. The system focuses on information such as teaching style, workload, exam difficulty, grading practices, and course expectations gathered from student reviews and Reddit discussions.
 This knowledge is valuable because it reflects the real day-to-day experience of taking a course, something official university channels never capture. Course catalogs describe what a class covers but say nothing about whether the professor is good or not, whether the exams are fair, or whether the workload is manageable for students might working. Students have historically had to rely on word of mouth or scattered Reddit threads to find this information. This system makes it directly searchable.
 
@@ -24,19 +25,19 @@ This knowledge is valuable because it reflects the real day-to-day experience of
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
+| #   | Source                                    | Type                  | URL or file path                                   |
+| --- | ----------------------------------------- | --------------------- | -------------------------------------------------- |
+| 1   | Saty Raghavachary — Rate My Professors    | RMP reviews           | https://www.ratemyprofessors.com/professor/798241  |
+| 2   | How is CSCI 572 with Prof. Saty?          | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/15ud6gx      |
+| 3   | How CSCI-585 is?                          | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/11jscpe      |
+| 4   | Professor ID 1104782 — Rate My Professors | RMP reviews           | https://www.ratemyprofessors.com/professor/1104782 |
+| 5   | The CSCI 571 Misrepresentation Scandal    | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/15eqr36      |
+| 6   | Professor ID 3125237 — Rate My Professors | RMP reviews           | https://www.ratemyprofessors.com/professor/3125237 |
+| 7   | Professor ID 2294843 — Rate My Professors | RMP reviews           | https://www.ratemyprofessors.com/professor/2294843 |
+| 8   | Any thoughts on DSCI 552?                 | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/1co1472      |
+| 9   | Professor ID 1307919 — Rate My Professors | RMP reviews           | https://www.ratemyprofessors.com/professor/1307919 |
+| 10  | Anyone taken CSCI 526 or CSCI 538?        | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/a7ued1       |
 
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | Saty Raghavachary — Rate My Professors | RMP reviews | https://www.ratemyprofessors.com/professor/798241 |
-| 2 | How is CSCI 572 with Prof. Saty? | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/15ud6gx |
-| 3 | How CSCI-585 is? | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/11jscpe |
-| 4 | Professor ID 1104782 — Rate My Professors | RMP reviews | https://www.ratemyprofessors.com/professor/1104782 |
-| 5 | The CSCI 571 Misrepresentation Scandal | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/15eqr36 |
-| 6 | Professor ID 3125237 — Rate My Professors | RMP reviews | https://www.ratemyprofessors.com/professor/3125237 |
-| 7 | Professor ID 2294843 — Rate My Professors | RMP reviews | https://www.ratemyprofessors.com/professor/2294843 |
-| 8 | Any thoughts on DSCI 552? | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/1co1472 |
-| 9 | Professor ID 1307919 — Rate My Professors | RMP reviews | https://www.ratemyprofessors.com/professor/1307919 |
-| 10 | Anyone taken CSCI 526 or CSCI 538? | Reddit thread (r/USC) | https://www.reddit.com/r/USC/comments/a7ued1 |
 ---
 
 ## Chunking Strategy
@@ -63,15 +64,16 @@ Before chunking, the pipeline cleans each document by removing HTML tags, Reddit
 
 **Sample chunks:**
 
-1. `csci571.txt` (chunk_id=4, 300 tokens): *"concepts used in the homework assignments. Massive assignments. The workload of this course is too much, especially the last two assignments. Students in later semesters were hoping for those concerns to be resolved as quickly as possible. Professor Papa said no..."*
+1. `csci571.txt` (chunk_id=4, 300 tokens): _"concepts used in the homework assignments. Massive assignments. The workload of this course is too much, especially the last two assignments. Students in later semesters were hoping for those concerns to be resolved as quickly as possible. Professor Papa said no..."_
 
-2. `saty_rmp.txt` (chunk_id=62, 300 tokens): *"passionate about DS and genuinely cares about his students. The 4 HWs were easy but the midterm was hard. He took this feedback and made the final easier. He takes random roll call each class..."*
+2. `saty_rmp.txt` (chunk_id=62, 300 tokens): _"passionate about DS and genuinely cares about his students. The 4 HWs were easy but the midterm was hard. He took this feedback and made the final easier. He takes random roll call each class..."_
 
-3. `prof_1104782_rmp.txt` (chunk_id=29, 300 tokens): *"Papa admits to reading this page, I suspect most of the good reviews are by him. Be warned: you pay 9,000 to do a project by yourself. You might as well Google old projects..."*
+3. `prof_1104782_rmp.txt` (chunk_id=29, 300 tokens): _"Papa admits to reading this page, I suspect most of the good reviews are by him. Be warned: you pay 9,000 to do a project by yourself. You might as well Google old projects..."_
 
-4. `csci526_538.txt` (chunk_id=0, 300 tokens): *"Anyone taken CSCI 526 or CSCI 538? How are these courses like? Is there excessive coding? How is the grading curve?..."*
+4. `csci526_538.txt` (chunk_id=0, 300 tokens): _"Anyone taken CSCI 526 or CSCI 538? How are these courses like? Is there excessive coding? How is the grading curve?..."_
 
-5. `dsci552.txt` (chunk_id=21, 300 tokens): *"Any thoughts on the DSCI 552? How hard is it to get an A? The midterms are math heavy, but its simple math. Homework is tedious but doable..."*
+5. `dsci552.txt` (chunk_id=21, 300 tokens): _"Any thoughts on the DSCI 552? How hard is it to get an A? The midterms are math heavy, but its simple math. Homework is tedious but doable..."_
+
 ---
 
 ## Embedding Model
@@ -143,20 +145,22 @@ sources = list(dict.fromkeys(chunk["source"] for chunk in chunks))
 This means the Sources box in the Gradio UI is always populated from the actual retrieved documents, even if the LLM fails to cite them in its answer text.
 
 Out-of-scope refusal test — Query: "What is the best restaurant near USC?" — Response: "I don't have enough information in my sources to answer that question." The system correctly declined rather than hallucinating an answer.
+
 ---
 
 ## Evaluation Report
+
 <!-- Run your 5 test questions from planning.md through your system and record the results.
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
-| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-|---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | What do students say about Saty Raghavachary's teaching style? | Students describe Saty's teaching style, communication, and classroom effectiveness based on collected reviews | Described mixed opinions: some find him passionate and engaging, others find him disorganized and rambling. Cited saty_rmp.txt and csci585.txt inline. | Relevant | Accurate |
-| 2 | How difficult do students think CSCI 572 is? | Students discuss workload, project difficulty, and overall challenge level of CSCI 572 | Returned one quote describing Saty's courses as "more like 100-level than 500-level." Retrieved csci572_saty.txt but also pulled csci571.txt and csci585.txt which are off-topic. | Partially relevant | Partially accurate |
-| 3 | What concerns were raised about CSCI 571? | Summary of issues discussed in the CSCI 571 Reddit thread | Accurately summarized the misrepresentation scandal, prerequisite issue, student complaints, and professor dismissiveness. All citations from csci571.txt. | Relevant | Accurate |
-| 4 | What do students say about the workload in DSCI 552? | Students describe workload, assignments, and time commitment for DSCI 552 | Correctly described homework as tedious but doable, midterms as math-heavy but simple. Top retrieved result was prof_1104782_rmp.txt (wrong source), dsci552.txt appeared at rank 2. | Partially relevant | Partially accurate |
-| 5 | How do students compare CSCI 526 and CSCI 538? | Students compare difficulty, workload, and recommendations for CSCI 526 vs CSCI 538 | Correctly stated there is no direct student comparison in the documents. Named the courses correctly. Did not hallucinate a comparison. | Partially relevant | Partially accurate |
+| #   | Question                                                       | Expected answer                                                                                                | System response (summarized)                                                                                                                                                         | Retrieval quality  | Response accuracy  |
+| --- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------ |
+| 1   | What do students say about Saty Raghavachary's teaching style? | Students describe Saty's teaching style, communication, and classroom effectiveness based on collected reviews | Described mixed opinions: some find him passionate and engaging, others find him disorganized and rambling. Cited saty_rmp.txt and csci585.txt inline.                               | Relevant           | Accurate           |
+| 2   | How difficult do students think CSCI 572 is?                   | Students discuss workload, project difficulty, and overall challenge level of CSCI 572                         | Returned one quote describing Saty's courses as "more like 100-level than 500-level." Retrieved csci572_saty.txt but also pulled csci571.txt and csci585.txt which are off-topic.    | Partially relevant | Partially accurate |
+| 3   | What concerns were raised about CSCI 571?                      | Summary of issues discussed in the CSCI 571 Reddit thread                                                      | Accurately summarized the misrepresentation scandal, prerequisite issue, student complaints, and professor dismissiveness. All citations from csci571.txt.                           | Relevant           | Accurate           |
+| 4   | What do students say about the workload in DSCI 552?           | Students describe workload, assignments, and time commitment for DSCI 552                                      | Correctly described homework as tedious but doable, midterms as math-heavy but simple. Top retrieved result was prof_1104782_rmp.txt (wrong source), dsci552.txt appeared at rank 2. | Partially relevant | Partially accurate |
+| 5   | How do students compare CSCI 526 and CSCI 538?                 | Students compare difficulty, workload, and recommendations for CSCI 526 vs CSCI 538                            | Correctly stated there is no direct student comparison in the documents. Named the courses correctly. Did not hallucinate a comparison.                                              | Partially relevant | Partially accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -187,6 +191,7 @@ The failure originates in the document collection stage, not the retrieval or ge
 
 **What you would change to fix it:**
 Collect more source documents specifically about CSCI 526 and CSCI 538 — additional Reddit threads, RateMyProfessors reviews for the professors who teach those courses, or department course evaluation data. More chunks from the right sources would give the embedding model enough signal to return relevant results and give the LLM enough context to produce a substantive answer.
+
 ---
 
 ## Spec Reflection
@@ -199,6 +204,7 @@ Writing the chunking strategy in planning.md before touching any code forced a c
 
 **One way your implementation diverged from the spec, and why:**
 The spec planned for a single cleaning pass before chunking. In practice, cleaning required three iterative passes — each time running the pipeline, inspecting sample chunks, identifying new boilerplate patterns (Reddit sidebar links, RateMyProfessors UI labels like "Logo Professors" and "Caret Down", ad text from Shopify), and adding new regex patterns to the cleaner. The spec assumed the document structure was predictable enough to handle in one pass, but copy-pasted web content turned out to be messier than expected. The final cleaner has roughly 40 boilerplate patterns compared to the approximately 20 originally planned, and the chunk count dropped from 76 to 68 across the three cleaning passes as more noise was removed.
+
 ---
 
 ## AI Usage
@@ -214,12 +220,12 @@ The spec planned for a single cleaning pass before chunking. In practice, cleani
 
 **Instance 1**
 
-- *What I gave the AI:* My full planning.md spec including the Documents section, Chunking Strategy section (300 tokens, 50 overlap), and the Mermaid architecture diagram showing the five pipeline stages.
-- *What it produced:* A complete `ingest_chunks.py` script with a cleaning function, a sliding window chunker, and output to both `.clean.txt` files and `chunks.jsonl`. The initial cleaning patterns covered HTML, Reddit vote counts, and basic nav text.
-- *What I changed or overrode:* After running the script and inspecting sample chunks, I directed the AI to add three additional rounds of boilerplate patterns targeting Reddit sidebar links, RateMyProfessors UI labels, and ad text that had slipped through the initial cleaning. I also directed it to apply fixes in-place using Python patch commands rather than regenerating the whole file each time.
+- _What I gave the AI:_ My full planning.md spec including the Documents section, Chunking Strategy section (300 tokens, 50 overlap), and the Mermaid architecture diagram showing the five pipeline stages.
+- _What it produced:_ A complete `ingest_chunks.py` script with a cleaning function, a sliding window chunker, and output to both `.clean.txt` files and `chunks.jsonl`. The initial cleaning patterns covered HTML, Reddit vote counts, and basic nav text.
+- _What I changed or overrode:_ After running the script and inspecting sample chunks, I directed the AI to add three additional rounds of boilerplate patterns targeting Reddit sidebar links, RateMyProfessors UI labels, and ad text that had slipped through the initial cleaning. I also directed it to apply fixes in-place using Python patch commands rather than regenerating the whole file each time.
 
 **Instance 2**
 
-- *What I gave the AI:* The Retrieval Approach section from planning.md (all-MiniLM-L6-v2, top-k=4, ChromaDB), the pipeline diagram, and the requirement that grounding must be enforced via system prompt with programmatic source attribution guaranteed in Python, not left to the LLM.
-- *What it produced:* `query.py` with a retrieve function, a grounded generation function using Groq llama-3.3-70b-versatile, and `app.py` with a Gradio interface. The initial retrieve function used `_model.encode(query, convert_to_list=True)` without normalization.
-- *What I changed or overrode:* I directed the AI to fix the embedding call to use `_model.encode([query], normalize_embeddings=True).tolist()` — the correct SentenceTransformer batch pattern with L2 normalization — because the original pattern did not normalize embeddings, which weakens cosine similarity scores in ChromaDB. I verified that source attribution was collected programmatically in Python and not dependent on the LLM citing sources in its own response text.
+- _What I gave the AI:_ The Retrieval Approach section from planning.md (all-MiniLM-L6-v2, top-k=4, ChromaDB), the pipeline diagram, and the requirement that grounding must be enforced via system prompt with programmatic source attribution guaranteed in Python, not left to the LLM.
+- _What it produced:_ `query.py` with a retrieve function, a grounded generation function using Groq llama-3.3-70b-versatile, and `app.py` with a Gradio interface. The initial retrieve function used `_model.encode(query, convert_to_list=True)` without normalization.
+- _What I changed or overrode:_ I directed the AI to fix the embedding call to use `_model.encode([query], normalize_embeddings=True).tolist()` — the correct SentenceTransformer batch pattern with L2 normalization — because the original pattern did not normalize embeddings, which weakens cosine similarity scores in ChromaDB. I verified that source attribution was collected programmatically in Python and not dependent on the LLM citing sources in its own response text.
